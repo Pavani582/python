@@ -1,2 +1,2 @@
 # python
-pyhton learning :- identifiers, data type, data structures 
+identifier,operators, structures
